@@ -4,8 +4,8 @@
 
 ## Java Developer
 
-<font color="blue">Coffee coffee is how I keep up with '<
-code />' </font>
+<font color="blue">Coffee coffee is how I keep up with '{
+code }' </font>
 
 ### Reach out to me
 
