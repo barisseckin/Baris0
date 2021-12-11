@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" widht="400" height="250">
 
 ### Hi there, I'm Baris. :blush:
-# I continue to improve myself in Java programming language and Spring Framework technologies. I am trying to produce new projects using databases and I aim to increase my experience in databases.
+I continue to improve myself in Java programming language and Spring Framework technologies. I am trying to produce new projects using databases and I aim to increase my experience in databases.
 
 ## Java Developer
 
