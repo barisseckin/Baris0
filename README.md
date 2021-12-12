@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" align="right" widht="400" height="250">
+<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" align="right" widht="400" height="250">
 
 ### Hi there, I'm Baris. :blush:
 
