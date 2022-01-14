@@ -1,4 +1,4 @@
-### Hi there :blush:
+### Hi there 👋:
 
 ## Java Developer
 
