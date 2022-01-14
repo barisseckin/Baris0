@@ -1,4 +1,4 @@
-### Hi there, I'm Baris. :blush:
+### Hi there :blush:
 
 ## Java Developer
 
