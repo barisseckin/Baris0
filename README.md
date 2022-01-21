@@ -2,9 +2,9 @@
 
 ## Java Developer
 
-![](https://komarev.com/ghpvc/?username=Baris Seckin-github-Baris0)
+![](https://komarev.com/ghpvc/?username=Baris0-github-Baris Seckin)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=Baris0-github-username&color=green)
 
 ### Reach out to me
 
