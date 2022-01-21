@@ -2,6 +2,10 @@
 
 ## Java Developer
 
+![](https://komarev.com/ghpvc/?username=Baris Seckin-github-Baris0)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 ### Reach out to me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
