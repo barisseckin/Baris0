@@ -2,8 +2,6 @@
 
 ## Java Developer
 
-![](https://komarev.com/ghpvc/?username=Baris0-github-username&color=green)
-
 ### Reach out to me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
