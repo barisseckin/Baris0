@@ -5,7 +5,7 @@
 ### Reach out to me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />][gmail]
 
 <br />
 <br />
@@ -33,5 +33,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/barisseckin/
-
+[gmail]: barisseckin0@gmail.com
 
