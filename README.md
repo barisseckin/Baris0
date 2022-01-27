@@ -19,10 +19,9 @@
 <br />
 <br />
 <br />
-<details>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Baris0&theme=radical&show_icons=true">
-</details>
+
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
