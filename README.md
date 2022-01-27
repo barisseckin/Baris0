@@ -20,7 +20,7 @@
 <br />
 <br />
 <details>
-<summary>:bulb: GitHub Stats</summary>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Baris0&theme=radical&show_icons=true">
 </details>
 
