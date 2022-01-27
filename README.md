@@ -9,6 +9,7 @@
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 
 <br />
+
 ### Tech I Use
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" widht="40" height="40">
