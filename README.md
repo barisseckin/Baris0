@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Baris0&theme=radical&show_icons=true">
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baris0&layout=compact">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Baris0&theme=radical&show_icons=true">
 
 ### Hi there 👋
 
