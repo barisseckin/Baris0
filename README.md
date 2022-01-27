@@ -22,11 +22,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Baris0&theme=radical&show_icons=true">
 
-
-<details>
-<summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baris0&layout=compact">
-</details>
+
 
 
 [linkedin]: https://www.linkedin.com/in/barisseckin/
