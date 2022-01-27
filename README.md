@@ -6,7 +6,7 @@
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
+[<img width="28" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 
 <br />
 
