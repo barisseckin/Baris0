@@ -1,7 +1,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Baris0&theme=radical&show_icons=true">
-<br />
-<br />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baris0&theme=dark">
 
 ### Hi there 👋
 
@@ -10,7 +7,7 @@
 ### Reach out to me
 
 [<img width="28" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baris0&theme=dark">
 <br />
 
 ### Techs I Use
