@@ -12,7 +12,7 @@
 
 ### Techs I Use
 
-<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngindir.com%2Findir%2Fjava-runtime-environment.html&psig=AOvVaw1aJSfXqS6f7tH6hVxqEHsb&ust=1643510744970000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDtjeT41fUCFQAAAAAdAAAAABAK" widht="40" height="40">
+<img align="left" src="https://img1.pngindir.com/20180805/xwk/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766aaf21ab4.3339227715335031469917.jpg" widht="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" widht="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" widht="40" height="40">
