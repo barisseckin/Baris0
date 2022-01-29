@@ -11,7 +11,6 @@
 <br />
 
 ### Techs I Use
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baris0&theme=dark">
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" widht="40" height="40">
