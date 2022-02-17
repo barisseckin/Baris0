@@ -10,8 +10,9 @@
 
 [<img align="left" alt="Baris Gmail | Gmail" width="97px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />][gmail]
 
+
 <br />
-<br />
+
 ### Techs I Use
 
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" widht="40" height="40">
