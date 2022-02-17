@@ -10,11 +10,12 @@
 
 [<img align="left" alt="Baris Gmail | Gmail" width="97px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />][gmail]
 
-
 <br />
 
 ### Techs I Use
+
 <br />
+
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" widht="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" widht="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht="40" height="40">
