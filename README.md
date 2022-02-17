@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-## Java Developer
 
 ### Reach out to me
 
