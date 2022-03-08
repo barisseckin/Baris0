@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Baris0&theme=radical&show_icons=true">
+
 
 ### Hi there 👋
 
