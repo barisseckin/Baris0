@@ -14,6 +14,7 @@
 
 
   ![Java](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java&logoColor=EF7F1A&color=2B2A29)
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
   ![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=EF7F1A&color=2B2A29)
 
   </details>
