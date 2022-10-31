@@ -2,10 +2,7 @@
 
   <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm Barış Seçkin :technologist: </h1>
 
-  <p align="center">
-    <a href="https://github.com/barisseckin"><img src="https://visitor-badge.laobi.icu/badge?page_id=barisseckin" alt="Ziyaret"></a>
-  </p>
-
+ 
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
       <b>My Interests</b>
